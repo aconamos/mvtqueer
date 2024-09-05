@@ -1,3 +1,7 @@
+# this project is virtually useless. all the data i (for some awful reason) was stored in the mvt files was actually just an 11 mb json served to the client.
+# oh well. time to archive.
+
+
 # Useful links
 
 - [protobuf repo](https://github.com/protocolbuffers/protobuf)
