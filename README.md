@@ -1,4 +1,4 @@
-# this project is virtually useless. all the data i (for some awful reason) was stored in the mvt files was actually just an 11 mb json served to the client.
+# this project is virtually useless. all the data i (for some awful reason) thought was stored in the mvt files was actually just in an 11 mb json served to the client.
 # oh well. time to archive.
 
 
